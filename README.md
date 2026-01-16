@@ -35,6 +35,9 @@ Ventas por m² = SUM(ventas_semanales) / AVERAGE(tamaño)
 KPI 2: Participación por Departamento
 
 Participación % = Ventas_Departamento / Ventas_Totales
+KPI 3: Contribución de ventas por Departamento
+
+
 ### Visualización y Dashboard
 Dashboard Interactivo:
 Menús desplegables para filtrado dinámico
