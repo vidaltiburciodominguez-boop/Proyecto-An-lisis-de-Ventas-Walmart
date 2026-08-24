@@ -1,4 +1,4 @@
-# Proyecto-An-lisis-de-Ventas-Walmart
+# Proyecto-Analisis-de-Ventas-Walmart
 ### Objetivo Principal
 Desarrollar habilidades avanzadas en Google Sheets para análisis de datos empresariales, enfocándose en limpieza, transformación y visualización de datos para la toma de decisiones estratégicas.
 
